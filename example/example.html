@@ -9,5 +9,8 @@
   {{> placeholder 'foo'}}
   {{> placeholder name='bar'}}
   {{> placeholder name='foobar' height=3}}
+  {{#placeholder name='external' height=5}}
+    {{> placeholder name='internal' height=2}}
+  {{/placeholder}}
 </body>
 

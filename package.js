@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Wireframing tools",
-  version: "0.1.0",
+  version: "0.2.0",
   name: "percolate:wireframing",
   git: "https://github.com/percolatestudio/meteor-wireframing.git"
 });
